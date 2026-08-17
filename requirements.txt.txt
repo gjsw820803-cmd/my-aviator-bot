@@ -1,6 +1,0 @@
-aiogram
-pandas
-matplotlib
-fastapi
-uvicorn
-jinja2
